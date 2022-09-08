@@ -1,2 +1,2 @@
 # Code_Switching_Dataset
-Artifical way to make CS data
+Artifical ways to make CS dataset. Paper will be published soon with full details ISA.
