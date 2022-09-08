@@ -1,0 +1,1911 @@
+البشر توقعنى مع واحد مجنون مهتم بالسياسة والاقتصاد والعك ده ليه مكانش صاحبى من اللى بيسمعوا أغانى وبيستمتعوا فى التفاهات أهه شغلى بالى وطلع
+people set me up with a crazy person interested in politics and the economy and why is my friend not among those who listen to songs and enjoy trivialities
+ااا  البشر توقعنى مع واحد crazy مهتم بالسياسة والاقتصاد والعك ده ليه مكانش صاحبى من اللى بيسمعوا أغانى وبيستمتعوا فى التفاهات أهه شغلى بالى وطلع
+{'مجنون': 'crazy'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+قرار الأغلبية سنكون معا فى مرحلة ما بعد الانتخابات نتجادل ونتناقش نبنى ونتعاون
+the majority decision we will be together in the postelection stage arguing and discussing building and cooperating
+ااا  قرار ال majority سنكون معا فى مرحلة ما بعد الانتخابات نتجادل ونتناقش نبنى ونتعاون
+{'الأغلبية': ' ال majority'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+أملا فى غد أفضل وأيا ما كان قرار الأغلبية فى الانتخابات
+hoping for a better tomorrow whatever the decision of the majority in the elections is
+ااا  أملا فى tomorrow أفضل وأيا ما كان قرار ال majority فى الانتخابات
+{'غد': 'tomorrow', 'الأغلبية': ' ال majority'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+من حجج فالاختلاف سنة والتعايش ضرورة والحوار آلية والمستقبل لا يبنى إلا بالتفكير المركب الذى يرى فى القرار عيوبه ومميزاته
+arguments difference is the norm coexistence is a necessity dialogue is a mechanism and the future can only be built by complex thinking that sees in the decision its flaws and advantages
+ااا  من arguments فالاختلاف سنة والتعايش ضرورة والحوار آلية والمستقبل لا يبنى إلا بالتفكير المركب الذى يرى فى القرار عيوبه ومميزاته
+{'حجج': 'arguments'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+حالة من التقديس والعشق والتأييد الأبدى أسطورة
+a state of reverence adoration and eternal support is a legend
+ااا  حالة من التقديس والعشق والتأييد ال eternal أسطورة
+{'الأبدى': ' ال eternal'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+الفجر فى الاختلاف لو كان لى من طلب من القارئ الكريم نقول ما يلى ثلاث مرات أنا
+alfajr in the difference if i were to ask the honorable reader to say the following three times i am
+ااا  الفجر فى ال difference لو كان لى من طلب من ال reader الكريم نقول ما يلى ثلاث مرات أنا
+{'الاختلاف': ' ال difference', 'القارئ': ' ال reader'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+عن الشباب الذى قرر ألا ينخرط فى عمل سياسى أو حزبى بعد هؤلاء
+about the youth who decided not to engage in political or partisan work after these
+ااا  عن الشباب الذى قرر ألا يengage فى عمل سياسى أو حزبى بعد هؤلاء
+{'ينخرط': 'يengage'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+أو الكنيسة فكر فى مكان عملك أن تعين ملهوفا ذا حاجة وتكون هذه هى خدمتك لمصر
+or the church think in your workplace to appoint a person in need and this will be your service to egypt
+ااا  أو ال church فكر فى مكان عملك أن تعين ملهوفا ذا حاجة وتكون هذه هى خدمتك لمصر
+{'الكنيسة': ' ال church'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+فكر فى أن تأخذ دراستك بجدية أكبر ولو ليوم واحد فى الأسبوع وتكون هذه هى خدمتك لمصر
+think about taking your studies more seriously even for one day a week and this will be your service to egypt
+ااا  فكر فى أن تأخذ دراستك بجدية أكبر ولو ليوم واحد فى ال week وتكون هذه هى خدمتك لمصر
+{'الأسبوع': ' ال week'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ضحينا كثيرا فى السنوات الثلاث الماضية والآن جاءت لحظة الجائزة بأن يختار المصريون رئيسهم وأن يعملوا معه من أجل مستقبل أفضل لا تضيع وقتك
+we sacrificed a lot in the past three years and now the award moment has come for the egyptians to choose their president and work with him for a better future dont waste your time
+ااا  ضحينا كثيرا فى السنوات الثلاث ال past والآن جاءت لحظة الجائزة بأن يختار المصريون رئيسهم وأن يعملوا معه من أجل مستقبل أفضل لا تضيع وقتك
+{'الماضية': ' ال past'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+حالة من الكراهية والغل والعداء
+a state of hatred malice and hostility
+ااا  حالة من ال hatred والغل و ال hostility
+{'الكراهية': ' ال hatred', 'والعداء': ' ال و hostility'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+التفكير بمنطق أن العدل هو ما فى مصلحتى وأن الظلم هو ما يتعارض مع مصلحتى انتصارنا على أنفسنا يبدأ بأن نؤسس معا لمصر
+thinking with the logic that justice is what is in my interests and that injustice is what contradicts my interests our victory over ourselves begins with us establishing together for egypt
+ااا  التفكير بمنطق أن ال justice هو ما فى مصلحتى وأن الظلم هو ما يتعارض مع مصلحتى انتصارنا على أنفسنا يبدأ بأن نؤسس معا لمصر
+{'العدل': ' ال justice'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+جديدة داخل عقل وقلب كل واحد فينا أولا مصر تستلهم روح خمسة و عشرون يناير
+new inside the mind and heart of each one of us first egypt is inspired by the spirit of january 25
+ااا  جديدة inside عقل وقلب كل واحد فينا أولا مصر تستلهم روح خمسة و عشرون يناير
+{'داخل': 'inside'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+نحن فقط بحاجة لمن يساعدنا إلى
+we just need someone to help us
+ااا  نحن فقط بحاجة لمن يhelp us إلى
+{'يساعدنا': 'يhelp us'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+بعزيز صلوا من أجل مصر
+dear pray for egypt
+ااا  بعزيز pray من أجل مصر
+{'صلوا': 'pray'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+يعنى أن نصيب كل واحد منا كبيرنا وصغيرنا من التسعين مليونا نحو خمسة عشر ألف جنيه سنويا هذا هو متوسط الدخل للمواطن المصرى وفى الوقت
+this means that the share of each one of us old and young of the ninety million is about fifteen thousand pounds annually this is the average income of the egyptian citizen at the time
+ااا  يعنى أن نshare of كل واحد منا كبيرنا وصغيرنا من التسعين مليونا نحو خمسة عشر ألف جنيه سنويا هذا هو متوسط الدخل للمواطن المصرى وفى الوقت
+{'نصيب': 'نshare of'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+نفسه الديون المصرية داخليا وخارجيا تصل إلى تريليون و سبعمائة مليار جنيه بما
+the same egyptian debts internally and externally amounting to one trillion and seven hundred billion pounds including
+ااا  نفسه ال debts المصرية internally وخارجيا تصل إلى trillion و seven hundred مليار جنيه بما
+{'الديون': ' ال debts', 'داخليا': 'internally', 'تريليون': 'trillion', 'سبعمائة': 'seven hundred'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+لما فيه من دماء بغض النظر عن المسئول عنها هذه الفئة
+because of the blood regardless of who is responsible for this category
+ااا  لما فيه من blood بغض النظر عن المسئول عنها هذه الفئة
+{'دماء': 'blood'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+رفضوا الإعلان الدستورى الصادر من الرئيس فى الثامن من يوليو لأنه لم يلتزم بما وعد به المتحدثون فى الثالث من يوليو من عمل انتخابات رئاسية مبكرة أولا
+they rejected the constitutional declaration issued by the president on the 8th of july because it did not abide by what the speakers promised on the 3rd of july to hold early presidential elections first
+ااا  رفضوا الإعلان ال constitutional الصادر من ال president فى الثامن من يوليو لأنه لم يلتزم بما وعد به المتحدثون فى الثالث من يوليو من عمل انتخابات رئاسية مبكرة أولا
+{'الدستورى': ' ال constitutional', 'الرئيس': ' ال president'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+يونيو وسموها انقلابا وهؤلاء فئتان إخوان ومن يدافعون عن الشرعية الانتخابية المجموعة ثلاثون وهناك
+june and they called it a coup and these are two groups of brothers and those who defend electoral legitimacy the thirty group and there
+ااا  june وسموها انقلابا وهؤلاء فئتان إخوان ومن يدافعون عن الشرعية الانتخابية المجموعة ثلاثون وهناك
+{'يونيو': 'june'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+الفئة الثورية الخامسة وهى الفئة الثورية ثلاثون أى
+the fifth revolutionary category which is the thirty revolutionary category
+ااا  ال category الثورية الخامسة وهى الفئة الثورية ثلاثون أى
+{'الفئة': ' ال category'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+يونيو وما حدث فى أعقاب كل منهما لقد
+june and what happened in their wake ive
+ااا  june وما حدث فى أعقاب كل منهما لقد
+{'يونيو': 'june'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+وأيدوا الثلاثون من يونيو وبالنسبة لهم مبارك مثل مرسى كلاهما كانت لديه نزعة للاستبداد وبعض هؤلاء يؤيدون تماما كل ما تم اتخاذه من قرارات وإجراءات منذ الثلاثين من يونيو
+they supported the 30th of june and for them mubarak like morsi both had a tendency to tyranny and some of them fully support all the decisions and measures that have been taken since the 30th of june
+ااا  وأيدوا الثلاثون من june وبالنسبة لهم مبارك مثل مرسى كلاهما كانت لديه نزعة للاستبداد وبعض هؤلاء يؤيدون تماما كل ما تم اتخاذه من قرارات وإجراءات منذ الثلاثين من يونيو
+{'يونيو': 'june'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+المدرسة لهذا الفصل عددا ممن اعتبرتهم أفضل الأساتذة فى كل
+the school for this semester has a number of whom i consider the best teachers in all
+ااا  ال school لهذا الفصل عددا ممن اعتبرتهم أفضل الأساتذة فى كل
+{'المدرسة': ' ال school'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+المواد العلمية تمر الأيام ونتخرج فى مدرستنا العزيزة إلى
+scientific subjects the days pass and we graduate in our dear school to
+ااا  المواد ال scientific تمر الأيام ونتخرج فى مدرستنا العزيزة إلى
+{'العلمية': ' ال scientific'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+جامعة القاهرة بين كليات الطب والهندسة والصيدلة والعلوم
+cairo university between the faculties of medicine engineering pharmacy and science
+ااا  جامعة القاهرة بين كليات ال medicine والهندسة والصيدلة والعلوم
+{'الطب': ' ال medicine'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+يتعارض مع نواهيه والعمل للوطن أى بما لا ينال من مصالحه والعمل للحياة الكريمة
+it contradicts its prohibitions and work for the country ie what does not affect its interests and work for a decent life
+ااا  يتعارض مع نواهيه و ال work للوطن أى بما لا ينال من مصالحه والعمل للحياة الكريمة
+{'والعمل': ' ال و work'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+يبنون حياتهم بعيدا عن الوطن دول العالم الأخرى كانت أنجح فى الاستفادة من
+they build their lives away from home other countries of the world have been more successful in taking advantage of
+ااا  they build حياتهم بعيدا عن الوطن دول العالم الأخرى كانت أنجح فى الاستفادة من
+{'يبنون': 'they build'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+الذى كان يحمل رقم مائة و واحد و خمسون فى المدرسة الإبراهيمية
+who was carrying the number one hundred and fiftyone in the abrahamic school
+ااا  الذى كان يحمل number مائة و واحد و خمسون فى ال school الإبراهيمية
+{'رقم': 'number', 'المدرسة': ' ال school'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+أن المشكلة لم تزل قائمة
+that the problem still exists
+ااا  أن ال problem لم تزل قائمة
+{'المشكلة': ' ال problem'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+إن أحد أسباب نهضتنا ومؤشرات نجاحنا أن نستفيد من طاقات أبنائنا
+one of the reasons for our renaissance and indicators of our success is to benefit from the energies of our children
+ااا  إن أحد reasons نهضتنا ومؤشرات نجاحنا أن نستفيد من طاقات أبنائنا
+{'أسباب': 'reasons'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+أكثر فى امتحان الإعدادية فى مدارس
+more in the preparatory exam in schools
+ااا  أكثر فى exam الإعدادية فى مدارس
+{'امتحان': 'exam'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+القاهرة المختلفة وقد كان هذا الجمع من الطلاب يمثل بحق نخبة من بذور
+different cairo and this gathering of students truly represented an elite group of seeds
+ااا  القاهرة ال different وقد كان هذا الجمع من ال students يمثل بحق نخبة من seeds
+{'المختلفة': ' ال different', 'الطلاب': ' ال students', 'بذور': 'seeds'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+علماء ومفكرين وباحثين مرموقين فى المستقبل إن توافرت
+distinguished scholars thinkers and researchers in the future if available
+ااا  scholars ومفكرين و researchers مرموقين فى ال future إن available
+{'علماء': 'scholars', 'وباحثين': 'و researchers', 'المستقبل': ' ال future', 'توافرت': 'available'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+فكريا جهة اليسار لا يرى غيره
+intellectually the left side does not see anyone else
+ااا  فكريا جهة ال left لا يرى غيره
+{'اليسار': ' ال left'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+معهم مع ملاحظة أن الرجل أصلا كان يتحدث عن ألمانيا النازية والاتحاد السوفيتى الفاشى وهناك خامسا نظرية وضع
+with them noting that the man was originally talking about nazi germany and the fascist soviet union and there is a fifth theory of the situation
+ااا  معهم مع ملاحظة أن الرجل originally كان يتحدث عن germany النازية والاتحاد ال soviet الفاشى وهناك خامسا نظرية وضع
+{'أصلا': 'originally', 'ألمانيا': 'germany', 'السوفيتى': ' ال soviet'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+كان أنصاره عشرة فى المائة من المصريين فأعداؤه على الأقل عشرين فى المائة أو أكثر لماذا لأننا
+his supporters were ten percent of the egyptians but his enemies were at least twenty percent or more why because we
+ااا  كان his supporters عشرة فى المائة من المصريين فأعداؤه على الأقل عشرين فى المائة أو أكثر لماذا لأننا
+{'أنصاره': 'his supporters'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+أو المستقل قادر على أن يرى من هم على يساره ومن هم على يمينه ولا يتضرر من ذلك لكن المتطرف فكريا جهة
+or the independent is able to see who is on his left and those on his right and not be harmed by that but the ideological extremist is one side
+ااا  أو ال independent قادر على أن يرى من هم على يساره ومن هم على يمينه ولا يتضرر من ذلك لكن المتطرف فكريا جهة
+{'المستقل': ' ال independent'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+استعيدوا هذه الكلمات التى كتبها بهاء جاهين فى خاتمة مسرحية الزعيم يقول
+take back these words written by bahaa jahin in the conclusion of the play alzaeem says
+ااا  استعيدوا هذه ال words التى كتبها بهاء جاهين فى خاتمة مسرحية الزعيم يقول
+{'الكلمات': ' ال words'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+راجعين تانى وتانى وتانى أرواحنا قططى ومطاط يستغيث الشعب
+we are coming back again and again and again our souls are my cats and rubber for the people 's  help
+ااا  back تانى وتانى وتانى أرواحنا قططى ومطاط يستغيث الشعب
+{'راجعين': 'back'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ثورة مارس يرد الزعيم المفترض مرة أخرى لأ لأ تانى هنبدأ
+march revolution the supposed leader responds again no no we will start again
+ااا  revolution مارس يرد الزعيم المفترض مرة أخرى لأ لأ تانى هنبدأ
+{'ثورة': 'revolution'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+الفارس هو الحارس والأحلام مش عايزة فوارس
+the knight is the guard and dreams do not want knights
+ااا  الفارس هو الحارس و ال dreams مش عايزة فوارس
+{'والأحلام': ' ال و dreams'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+الشعب المتطلع إلى مستقبل أفضل إلى من يظن فيه أنه زعيم جديد انت زعيمنا واحد منا ابن
+the people looking forward to a better future to the one who thinks he is a new leader you are our leader one of us is a son
+ااا  الشعب المتطلع إلى future أفضل إلى من يظن فيه أنه زعيم جديد انت زعيمنا واحد منا ابن
+{'مستقبل': 'future'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+شارعنا عايش بينا انت الفارس وانت الحارس انت مفجر ثورة مارس تبنى لنا
+our street lives between us you are the knight and you are the guard you are the bomber of the march revolution built for us
+ااا  شارعنا عايش بينا انت ال knight وانت الحارس انت مفجر ثورة مارس تبنى لنا
+{'الفارس': ' ال knight'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+عمارات ومدارس حقق لنا يا زعيم أحلامنا يرد
+buildings and schools make our dreams come true oh leader
+ااا  عمارات و schools حقق لنا يا leader أحلامنا يرد
+{'ومدارس': 'و schools', 'زعيم': 'leader'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+الفارس تمثاله اتشقق والفروسية بقت حدوتة وكلام مش ممكن يتصدق راح
+the knight 's  statue was cracked equestrianism became a story and words cannot be believed
+ااا  ال knight تمثاله اتشقق والفروسية بقت حدوتة وكلام مش ممكن يتصدق راح
+{'الفارس': ' ال knight'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+الفارس هو الحارس والأحلام مش عايزة فوارس
+the knight is the guard and dreams do not want knights
+ااا  الفارس هو الحارس و ال dreams مش عايزة فوارس
+{'والأحلام': ' ال و dreams'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+و تسعمائة و أربعة و سبعين ثم
+and nine hundred and seventyfour then
+ااا  و nine hundred و أربعة و سبعين ثم
+{'تسعمائة': 'nine hundred'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+طرفا مباشرا فى تحديد مصير بلدك واعتبرها تبرعا بعدد من الساعات القليلة لخدمة قضية أكبر منك فما استحق أن يعيش مصريا من
+direct party in determining the fate of your country and consider it a donation of a few hours to serve a cause greater than you
+ااا  طرفا مباشرا فى تحديد fate of بلدك واعتبرها تبرعا بعدد من الساعات القليلة لخدمة قضية أكبر منك فما استحق أن يعيش مصريا من
+{'مصير': 'fate of'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+نظن أحيانا أن الطريق الوحيد لصناعة الديكتاتور هو المبالغة فى مدح شخصه ونسبه وشكله وكلماته وأفعاله وإشاراته
+sometimes we think that the only way to create a dictator is to exaggerate in praising his person lineage appearance words actions and gestures
+ااا  نظن أحيانا أن الطريق الوحيد لصناعة ال dictator هو المبالغة فى مدح شخصه ونسبه وشكله وكلماته وأفعاله وإشاراته
+{'الديكتاتور': ' ال dictator'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+المصرية وما تبعها كشفت استبدادنا لنا وأوضحت
+the egyptian and what followed it revealed our tyranny for us and made it clear
+ااا  المصرية وما تبعها revealed استبدادنا لنا وأوضحت
+{'كشفت': 'revealed'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+أن المعضلة لم تكن فقط مبارك
+that the dilemma was not only mubarak
+ااا  أن ال dilemma لم تكن فقط مبارك
+{'المعضلة': ' ال dilemma'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+إلا المديح من حاشيته ليصبح واحدا من رموز الاستبداد فى فرنسا بمقولته الشهيرة إل إي تي ايه تي سي إي إس تي ام او آي أى الدولة هى أنا وكان
+except for praise from his entourage for becoming one of the symbols of tyranny in france with his famous saying leta atce estmo i ie the state is me and he was
+ااا  إلا المديح من his entourage ليصبح واحدا من رموز الاستبداد فى فرنسا بمقولته الشهيرة إل إي تي ايه تي سي إي إس تي ام او آي أى الدولة هى أنا وكان
+{'حاشيته': 'his entourage'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+قاعد أنا وأم ميئش بنتفرج على التليفزيون ودى من الأوقات القليلة اللى
+my mother and i are sitting and watching tv and this is one of the few times
+ااا  قاعد أنا وأم ميئش بنتفرج على ال tv ودى من الأوقات القليلة اللى
+{'التليفزيون': ' ال tv'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+عملتوش كده قلت لها العقل الخام بيفكر فى إمبارح والنهاردة والعقل الحصيف بيفكر فى النهاردة وبكرة
+i did that i told her the raw mind thinks about yesterday and today and the wise mind thinks about today and tomorrow
+ااا  عملتوش كده قلت لها ال mind الخام بيفكر فى إمبارح والنهاردة والعقل الحصيف بيفكر فى النهاردة وبكرة
+{'العقل': ' ال mind'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+فيها زمان كان بيدرسوا لينا نظرية الميزة التنافسية أى
+there was a time when they taught us the theory of competitive advantage ie
+ااا  فيها زمان كان بيدرسوا لينا theory of الميزة التنافسية أى
+{'نظرية': 'theory of'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+تلك السلع والخدمات التى أنت فيها تتمتع بقدرة على منافسة الآخرين والانتصار عليهم فيها إما بسبب
+those goods and services that you are in have the ability to compete with others and win over them either because of
+ااا  تلك السلع و ال services التى أنت فيها تتمتع بقدرة على منافسة الآخرين والانتصار عليهم فيها إما بسبب
+{'والخدمات': ' ال و services'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+وضع احتكارى أو وضع تكلفة منخفضة أو نوعية مختلفة
+monopolistic mode low cost mode or different quality
+ااا  وضع احتكارى أو وضع cost منخفضة أو quality مختلفة
+{'تكلفة': 'cost', 'نوعية': 'quality'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+مثلا تعطوهم الأراضى هناك كحق انتفاع لمدة تسع و تسعين سنة ويأتون لكم بأحسن الشركات والخبرات والمستشفيات والمنتجعات والفنادق والخدمات مثلما فعلوا
+for example you give them the lands there as a usufruct for a period of ninetynine years and they bring you the best companies expertise hospitals resorts hotels and services just as they did
+ااا  مثلا تعطوهم ال lands هناك كحق انتفاع لمدة تسع و تسعين سنة ويأتون لكم بأحسن الشركات والخبرات والمستشفيات والمنتجعات والفنادق والخدمات مثلما فعلوا
+{'الأراضى': ' ال lands'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+أغلب من يعملون فى المشروع من المصريين ولماذا
+most of the people working on the project are egyptians and why
+ااا  أغلب من يعملون فى المشروع من المصريين و why
+{'ولماذا': 'و why'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+دولار ويزيد سنويا خمسة بالمائة لمدة ثلاثين سنة وخلوهم يعملوا زى ما هم عاملين من خدمات سياحية فى برج
+a dollar and five percent annually for a period of thirty years and they are free to work as they are working in tourist services in a tower
+ااا  دولار ويزيد سنويا خمسة ب ال percent لمدة thirty سنة وخلوهم يعملوا زى ما هم عاملين من خدمات سياحية فى برج
+{'بالمائة': ' ب  ال percent', 'ثلاثين': 'thirty'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+إيفيل فى باريس أو ساعة بيج بن فى لندن وهكذا معقولة
+eiffel in paris or big ben in london and so on reasonable
+ااا  إيفيل فى paris أو ساعة بيج بن فى لندن وهكذا reasonable
+{'باريس': 'in paris', 'معقولة': 'reasonable'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+أن نكرر نموذج دبى فى منطقة
+to repeat the dubai model in the region
+ااا  أن نكرر model دبى فى region
+{'نموذج': 'model', 'منطقة': 'region'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+الذكاء العاطفى وهو المصطلح الذى استخدمه اف آر إي دي جي آر إي إي ان إس تي إي آي ان من
+emotional intelligence is a term used by fred green steein from
+ااا  ال intelligence العاطفى وهو ال term الذى استخدمه اف آر إي دي جي آر إي إي ان إس تي إي آي ان من
+{'الذكاء': ' ال intelligence', 'المصطلح': ' ال term'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+جامعة برينستون ليفسر الخصائص الذاتية التى تفسر لماذا ينجح بعض السياسيين ويفشل بعضهم وقد فسر هذا المصطلح بأنه يعنى خلو الرئيس
+princeton university to explain the intrinsic characteristics that explain why some politicians succeed and some fail and this term has been interpreted to mean the president is empty
+ااا  جامعة برينستون ليفسر الخصائص الذاتية التى تexplain لماذا ينجح بعض ال politicians ويفشل بعضهم وقد فسر هذا المصطلح بأنه يعنى خلو الرئيس
+{'تفسر': 'تexplain', 'السياسيين': ' ال politicians'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+من الاضطرابات العاطفية التى تشتته وأن يتمتع بدرجة من الثقة بالنفس التى تجعله
+of emotional disturbances that distract him and that he has a degree of selfconfidence that makes him
+ااا  من الاضطرابات ال emotional التى تشتته وأن يتمتع بدرجة من الثقة بالنفس التى تجعله
+{'العاطفية': ' ال emotional'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+وإن لم يكن متجانسا تماما ولكن المهم أن يكونوا أكفاء وعقلاء فى التاريخ الأمريكى دائما
+although not completely homogeneous but the important thing is that they are always competent and sane in american history
+ااا  وإن لم يكن homogeneous تماما ولكن المهم أن يكونوا أكفاء وعقلاء فى التاريخ الأمريكى دائما
+{'متجانسا': 'homogeneous'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+به ما رؤية الرئيس لهذا التحدى وكيف سيلهب حماس الناس كى تقتنع برؤيته وكى تعمل معه دردشات
+what is the president 's  vision for this challenge and how will it inflame people 's  enthusiasm to be convinced of his vision and to have chats with him
+ااا  به ما رؤية ال president لهذا التحدى وكيف سيلهب حماس الناس كى تقتنع برؤيته وكى تعمل معه دردشات
+{'الرئيس': ' ال president'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+إما تشاركية أو مركزية ويكون هناك تحديد لعلاقة كبير موظفى القصر الرئاسى بمستشارى
+either participatory or central and there is a limitation of the relationship of the chief of staff of the presidential palace with my advisors
+ااا  إما تشاركية أو central ويكون هناك تحديد لعلاقة كبير موظفى القصر الرئاسى بمستشارى
+{'مركزية': 'central'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+الرئيس بالموظفين الرسميين مثل مدير جهاز
+the chief with the official staff such as the director of the apparatus
+ااا  الرئيس ب ال staff الرسميين مثل مدير جهاز
+{'بالموظفين': ' ب  ال staff'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+جيمس ماديسون العبقرى الذى كان وراء معظم أفكار الدستور الأمريكى لم
+james madison the genius behind most of the ideas of the american constitution
+ااا  جيمس ماديسون ال genius الذى كان وراء معظم أفكار ال constitution الأمريكى لم
+{'العبقرى': ' ال genius', 'الدستور': ' ال constitution'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+يكن رئيسا ناجحا وكانت نقطة البداية فى أنه لم يكن ناجحا فى إدارة البيت الأبيض فما
+he was a successful president and the starting point was that he was not successful in running the white house
+ااا  يكن رئيسا successful وكانت نقطة البداية فى أنه لم يكن ناجحا فى إدارة البيت الأبيض فما
+{'ناجحا': 'successful'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+بالك بإدارة الدولة كاملة سابعا
+think about managing the entire state seventh
+ااا  بالك بإدارة ال state كاملة seventh
+{'الدولة': ' ال state', 'سابعا': 'seventh'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+بين الناخب والمرشح والرئيس الذى لا يفى بالوعد لن ينجح فى قيادة الجماهير
+between the voter the candidate and the president who does not keep a promise will not succeed in leading the masses
+ااا  بين ال voter والمرشح والرئيس الذى لا يفى بالوعد لن ينجح فى قيادة الجماهير
+{'الناخب': ' ال voter'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+على الكساد خطابات لينكولن عن
+on the depression lincoln 's  letters about
+ااا  على ال depression خطابات لينكولن عن
+{'الكساد': ' ال depression'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+البيت المنقسم واستراتيجيته لمواجهة الانقسام هى التى خلقت الدعم له لإنقاذ الاتحاد مع
+it was the divided house and its strategy to confront the division that created support for it to save the union with
+ااا  البيت ال divided واستراتيجيته لمواجهة الانقسام هى التى خلقت الدعم له لإنقاذ الاتحاد مع
+{'المنقسم': ' ال divided'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+فقط لأنصاره ولكن لمعارضيه أيضا لا
+not only for his supporters but also for his opponents no
+ااا  فقط for his supporters ولكن لمعارضيه أيضا لا
+{'لأنصاره': 'for his supporters'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+صل على النبى كده وفكر معايا فيه دولة اسمها جنوب السودان هذه الدولة شهدت حالة من عدم الاستقرار السياسى والأمنى فى
+pray for the prophet like this and think with me about a country called south sudan this country witnessed a state of political and security instability in the world
+ااا  صل على ال prophet كده و think معايا فيه دولة اسمها جنوب السودان هذه الدولة شهدت حالة من عدم الاستقرار السياسى والأمنى فى
+{'النبى': ' ال prophet', 'وفكر': 'و think'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+شهور أو سنين فى السجن مع الأسف وهيكون أقصى حلمهم أن يعودوا إلى ما كانوا عليه قبل الخامس والعشرون من يناير
+unfortunately months or years in prison their ultimate dream would be to return to what they were before the twentyfifth of january
+ااا  months أو سنين فى ال prison مع الأسف وهيكون أقصى حلمهم أن يعودوا إلى ما كانوا عليه قبل الخامس والعشرون من يناير
+{'شهور': 'months', 'السجن': ' ال prison'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ألفين و أحد عشر بعد كم مهول من الضحايا والساسة سيشربون نخب شعوب
+two thousand and eleven after how many victims and politicians will drink to the peoples
+ااا  ألفين و أحد عشر بعد كم مهول من ال victims والساسة سيشربون نخب شعوب
+{'الضحايا': ' ال victims'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ويرقصوا وكأن كل اللى ماتوا ولا قيمة لهم آه يا ولاد الذين ده
+and they dance as if all those who have died have no value oh children of those who are this
+ااا  و they dance وكأن كل اللى ماتوا ولا قيمة لهم آه يا ولاد الذين ده
+{'ويرقصوا': 'و they dance'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+مع مع اللى بيقول فى عقل باله يعنى أنتم موتوا
+with the one who says in his mind he means you are dead
+ااا  مع مع اللى بيقول فى his mind باله يعنى أنتم موتوا
+{'عقل': 'his mind'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+الناس دى كلها وخربتوا البلد وشردتوا مليون ونص من الشعب
+all these people have destroyed the country and displaced a million and a half of the people
+ااا  الناس دى كلها وخربتوا ال country وشردتوا million ونص من الشعب
+{'البلد': ' ال country', 'مليون': 'million'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+أعجبنى لقاء المرشح الرئاسى
+i liked meeting the presidential candidate
+ااا  أعجبنى meeting المرشح الرئاسى
+{'لقاء': 'meeting'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+حوار مطول له وهو
+a lengthy conversation with him
+ااا  حوار lengthy له وهو
+{'مطول': 'lengthy'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+أقرب إلى خطاب نوايا ونحن بانتظار التفاصيل فى برنامجه الانتخابى
+closer to a letter of intent and we are awaiting the details of his electoral program
+ااا  closer إلى خطاب نوايا ونحن بانتظار التفاصيل فى برنامجه الانتخابى
+{'أقرب': 'closer'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+جزء من الوعى المطلوب هو حسن قراءة ما حدث فى السنوات الثلاث الماضية ثورتان أو موجتان ثوريتان أطاحتا
+part of the awareness that is required is a good reading of what happened in the past three years two revolutions or two revolutionary waves that toppled
+ااا  part من الوعى ال required هو حسن قراءة ما حدث فى السنوات الثلاث الماضية ثورتان أو موجتان ثوريتان أطاحتا
+{'جزء': 'part', 'المطلوب': ' ال required'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+عبر الاستفتاء الشعبى رابعا
+through the fourth popular referendum
+ااا  عبر ال referendum الشعبى رابعا
+{'الاستفتاء': ' ال referendum'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+أشرت فى مقال سابق لى إلى موقف الثائر الفرنسى الشهير
+in a previous article i referred to the position of the famous french revolutionary
+ااا  أشرت فى مقال سابق لى إلى موقف الثائر الفرنسى ال famous
+{'الشهير': ' ال famous'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+تأكل أبناءها فشركاء الثورة يصفى بعضهم بعضا وإن رفاق الميدان سيتحولون بفعل السياسة إلى خصوم كل
+it eats its own children for the revolution 's  partners liquidate each other and the comrades of the field will turn by politics into the opponents of all
+ااا  تأكل أبناءها فشركاء ال revolution يصفى بعضهم بعضا وإن رفاق الميدان سيتحولون بفعل السياسة إلى خصوم كل
+{'الثورة': ' ال revolution'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+فى مجلس الشعب أعضاء
+in the people 's  assembly members
+ااا  فى مجلس الشعب members
+{'أعضاء': 'members'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+لأشخاص من قوائم مختلفة أو لأشخاص مستقلين ومرة أخرى هذا اختيار الناخب ولم يجبر عليه بما لا يعنى إهدارا
+for people from different lists or for independent people once again this is the voter 's  choice and he was not forced to do so which does not mean a waste
+ااا  لأشخاص من قوائم مختلفة أو لأشخاص independent ومرة أخرى هذا اختيار الناخب ولم يجبر عليه بما لا يعنى إهدارا
+{'مستقلين': 'independent'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+كل المرشحين والمستقلين وإما أن يختار الناخب واحدة من القوائم كاملة بالتعليم عليها
+all candidates and independents or the voter chooses one of the lists complete with education
+ااا  كل ال candidates والمستقلين وإما أن يختار الناخب واحدة من القوائم كاملة بالتعليم عليها
+{'المرشحين': ' ال candidates'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+أو بالاختيار بين المرشحين وفى هذه
+or by choosing between the candidates and in these
+ااا  أو بالاختيار بين ال candidates وفى هذه
+{'المرشحين': ' ال candidates'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+عن تخطيه حاجز ال خمسين بالمائة أولا من الأصوات وبهذا
+he passed the fifty percent barrier of the vote first
+ااا  عن تخطيه حاجز ال خمسين ب ال percent أولا من الأصوات وبهذا
+{'بالمائة': ' ب  ال percent'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+الأرقام أو الأسماء فليختر بالرموز أو الصور الشخصية للمرشحين وهكذا كما يمكن وضع بعض الشروط التى تضمن جدية المترشح ويمكن
+numbers or names let him choose with symbols or personal pictures of the candidates and so on and some conditions can be set that guarantee the seriousness of the candidate
+ااا  ال numbers أو ال names فليختر بالرموز أو الصور الشخصية للمرشحين وهكذا كما يمكن وضع بعض الشروط التى تضمن جدية المترشح ويمكن
+{'الأرقام': ' ال numbers', 'الأسماء': ' ال names'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+المشروطة مع المزج وهى فكرة
+conditional with blending is an idea
+ااا  ال conditional مع المزج وهى idea
+{'المشروطة': ' ال conditional', 'فكرة': 'idea'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+الدعاية الانتخابية مثلما هو الحال مع نظام القائمة النسبية وإمكانية فردية الانتخاب
+electoral propaganda as is the case with the proportional list system and the possibility of individual election
+ااا  الدعاية الانتخابية مثلما هو الحال مع system القائمة النسبية وإمكانية فردية الانتخاب
+{'نظام': 'system'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+تقسيم مصر لعدد مائة و خمسون دائرة
+the division of egypt into one hundred and fifty circles
+ااا  تقسيم مصر لعدد مائة و fifty دائرة
+{'خمسون': 'fifty'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+مثلا يمثل كل دائرة خمسة أشخاص بمجموع أربعمائة و خمسون عضوا
+for example each circle represents five people with a total of four hundred and fifty members
+ااا  مثلا يمثل كل circle خمسة أشخاص بمجموع أربعمائة و خمسون عضوا
+{'دائرة': 'circle'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+وفقا للبنك الدولى هناك خمس عشرة دولة تخرجت من مدرسة التخلف إلى مدرسة التنمية خلال الفترة من ألف و تسعمائة و
+according to the world bank there are fifteen countries that graduated from the school of backwardness to the school of development during the period from one thousand nine hundred and
+ااا  وفقا للبنك الدولى هناك خمس عشرة دولة تخرجت من school of التخلف إلى مدرسة التنمية خلال الفترة من ألف و تسعمائة و
+{'مدرسة': 'school of'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+تبنت الدولة السياسة الاقتصادية الجديدة منذ عام ألف و تسعمائة و
+the state adopted the new economic policy since the year one thousand nine hundred and
+ااا  تadopted الدولة السياسة ال economic الجديدة منذ عام ألف و nine hundred و
+{'تبنت': 'تadopted', 'الاقتصادية': ' ال economic', 'تسعمائة': 'nine hundred'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+الدول لم تنطلق من افتراض أن القطاع العام قادر منفردا على قيادة النمو الاقتصادى وبالتالى
+countries did not proceed from the assumption that the public sector is capable of driving economic growth alone
+ااا  ال countries لم تنطلق من assumption أن ال sector العام قادر منفردا على قيادة النمو الاقتصادى وبالتالى
+{'الدول': ' ال countries', 'افتراض': 'assumption', 'القطاع': ' ال sector'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+اشتهرت عبارة حكم نخبة اللحوم أى بي إي إي اف او سي آر ايه سي واي فى بوتسوانا
+the phrase elite meat government epee crac or cracy is popular in botswana
+ااا  اشتهرت عبارة حكم نخبة ال meat أى بي إي إي اف او سي آر ايه سي واي فى بوتسوانا
+{'اللحوم': ' ال meat'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+الخاص عبر عنها بعض الباحثين بعبارة الاستقلال الاندماجى إي ام بي إي دي دي إي دي ايه يو تي او ان او ام واي لفريق التخطيط
+special expressed by some researchers with the term integrative independence embe edde eda uton or my for the planning team
+ااا  الخاص عبر عنها بعض الباحثين بعبارة ال independence الاندماجى إي ام بي إي دي دي إي دي ايه يو تي او ان او ام واي لفريق التخطيط
+{'الاستقلال': ' ال independence'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ولا يعبر عن رؤية حزبية ضيقة كما أنه ليس حكوميا حيث
+it does not express a narrow partisan vision nor is it a governmental one
+ااا  ولا يعبر عن vision حزبية ضيقة كما أنه ليس حكوميا حيث
+{'رؤية': 'vision'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+النماذج السابقة والمعضلة الأساسية فى كثير من الدول ومن بينها مصر أن الوزير المسئول يسعى للدفاع عن جهازه البيروقراطى لأنه
+previous models and the main dilemma in many countries including egypt is that the responsible minister seeks to defend his bureaucratic apparatus because he
+ااا  ال models السابقة والمعضلة الأساسية فى كثير من ال countries ومن بينها مصر أن الوزير المسئول يسعى للدفاع عن جهازه البيروقراطى لأنه
+{'النماذج': ' ال models', 'الدول': ' ال countries'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+الرحمة بقلوب الأهالى اللى انفطرت على ولادها أنا مش مع النزول الأيام دى لأن الكويس
+mercy in the hearts of the people who broke up with her children i do not agree with these days because it is good
+ااا  ال mercy بقلوب الأهالى اللى انفطرت على ولادها أنا مش مع النزول الأيام دى لأن الكويس
+{'الرحمة': ' ال mercy'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+الفوضى غير القتل خصوصا إنه اللى
+chaos other than murder especially because it is the one who
+ااا  ال chaos غير القتل especially إنه اللى
+{'الفوضى': ' ال chaos', 'خصوصا': 'especially'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+لكل من يموت من شبابنا وكان عندى موعد أمس مع صديق ينتظرنى على قهوة فيومى ولكنه فجأة قال لى إنه سيغادر
+for all of our youth dying and i had a date yesterday with a friend who was waiting for me over fayumi coffee but suddenly he told me he was leaving
+ااا  لكل من يموت من شبابنا وكان عندى date أمس مع a friend ينتظرنى على قهوة فيومى ولكنه فجأة قال لى إنه سيغادر
+{'موعد': 'date', 'صديق': 'a friend'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ما بعد ثلاثين يونيو اللى بيتظاهر يتقتل ولا يتحاسب أنا
+after the thirtieth of june the one who pretends to be killed will not be held accountable
+ااا  ما بعد ثلاثين june اللى بيتظاهر يتقتل ولا يتحاسب أنا
+{'يونيو': 'june'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+مش خايف من الإخوان هم مفلسون سياسيا ويخوضون معركة الماضى وليس معركة المستقبل وبغباء عبقرى خوفى الحقيقى من أننا نجيب
+i am not afraid of the brotherhood they are politically bankrupt and they are fighting the battle of the past not the battle of the future with the stupidity of a genius my real fear is that we will answer
+ااا  مش خايف من ال brotherhood هم مفلسون politically ويخوضون معركة الماضى وليس معركة المستقبل وبغباء عبقرى خوفى الحقيقى من أننا نجيب
+{'الإخوان': ' ال brotherhood', 'سياسيا': 'politically'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+معركة مصر الحقيقية ولكن فى الطريق للنصر فيها ما كان ينبغى أن تموت شيماء أصلا حتى لو كنت أنا شخصيا معترضا على أى مظاهرات
+the real battle of egypt but on the way to victory in it shaima should not have died at all even if i personally objected to any demonstrations
+ااا  battle of مصر الحقيقية ولكن فى الطريق للنصر فيها ما كان ينبغى أن تموت شيماء أصلا حتى لو كنت أنا شخصيا معترضا على أى مظاهرات
+{'معركة': 'battle of'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+أؤجل المعرفة أكملت اجتماع عمل مع أصدقاء حتى ساعة متأخرة من الليل
+i postpone knowledge i completed a business meeting with friends until late at night
+ااا  أؤجل المعرفة i completed اجتماع عمل مع friends حتى ساعة متأخرة من ال night
+{'أكملت': 'i completed', 'أصدقاء': 'friends', 'الليل': ' ال night'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+وحمدت الله أن الليلة مرت دون أن أعرف ما يزعجنى بشأن هذه القصة واستيقظت لأجد الكثير مرسلا إلى عبر
+thank god that the night passed without knowing what bothers me about this story and i woke up to find a lot sent to me across the world
+ااا  وحمدت الله أن الليلة passed دون أن أعرف ما يزعجنى بشأن هذه القصة واستيقظت لأجد الكثير مرسلا إلى عبر
+{'مرت': 'passed'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+وسائل التواصل عن شيماء ووجدت مرارة فى كلام الجميع ووجدت من يوزع الاتهامات بين أربعة اتجاهات هناك من يرى أنها هى التى
+the means of communication about shaima and i found bitterness in everyone 's  words and i found those who distribute accusations between four directions there are those who see that she is the one who
+ااا  means of التواصل عن شيماء ووجدت مرارة فى كلام الجميع ووجدت من يوزع الاتهامات بين أربعة اتجاهات هناك من يرى أنها هى التى
+{'وسائل': 'means of'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+هو من بالرصاص أصابها ومن يرى ثالثا أن من قتلها
+he is the one who shot her and whoever sees a third that whoever killed her
+ااا  هو من ب ال shot أصابها ومن يرى ثالثا أن من قتلها
+{'بالرصاص': ' ب  ال shot'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+تبرز فيها بمجهود أقل من أى مجال
+you stand out with less effort than any field
+ااا  تبرز فيها ب effort أقل من أى مجال
+{'بمجهود': ' ب effort'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+على أن يكون له قاطرة النمو التى تجر وراءها بقية القطار الاقتصادى الاجتماعى أى
+provided that it has the locomotive of growth that drags behind it the rest of the socioeconomic train ie
+ااا  على أن يكون له locomotive of النمو التى تجر وراءها بقية القطار الاقتصادى الاجتماعى أى
+{'قاطرة': 'locomotive of'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+مجال له تأثير إيجابى على مجالات اقتصادية واجتماعية أخرى
+an area that has a positive impact on other economic and social areas
+ااا  مجال له تأثير إيجابى على مجالات economic واجتماعية أخرى
+{'اقتصادية': 'economic'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ماليزيا تبنت الدولة السياسة الاقتصادية الجديدة منذ عام ألف و تسعمائة و واحد و سبعين لكنها
+malaysia the country has adopted the new economic policy since the year one thousand nine hundred and seventyone but it is
+ااا  ماليزيا تadopted الدولة السياسة ال economic الجديدة منذ عام ألف و nine hundred و واحد و سبعين لكنها
+{'تبنت': 'تadopted', 'الاقتصادية': ' ال economic', 'تسعمائة': 'nine hundred'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+من دولة لأخرى بحيث كان فقط ثمانية خبراء فى
+from one country to another so that only eight experts in
+ااا  من دولة لأخرى بحيث كان فقط ثمانية experts فى
+{'خبراء': 'experts'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+بعض الدول ووصل إلى أربعة و عشرين خبيرا فى دول أخرى المهم
+some countries have reached twentyfour experts in other countries
+ااا  بعض ال countries ووصل إلى أربعة و عشرين خبيرا فى دول أخرى المهم
+{'الدول': ' ال countries'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+أن هؤلاء يتمتعون بخصائص علمية وتجارب حياتية
+they have scientific characteristics and life experiences
+ااا  أن هؤلاء يتمتعون بخصائص scientific وتجارب life
+{'علمية': 'scientific', 'حياتية': 'life'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+تجعلهم العقل المفكر للدولة فى مجالات التنمية الاقتصادية والاجتماعية وتكون عضويتهم فى هذا الفريق هى العمل
+make them the thinking mind of the state in the areas of economic and social development and their membership in this team is work
+ااا  تجعلهم ال mind المفكر للدولة فى مجالات التنمية الاقتصادية والاجتماعية وتكون عضويتهم فى هذا الفريق هى العمل
+{'العقل': ' ال mind'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+بعد أن نقرأ للمتخصصين هذا واجبنا وليكتب هؤلاء المتخصصون هذا واجبهم ولنجعلها ثورة ضد الفهلوة لو أمكن
+after we read to the specialists this is our duty and let these specialists write this their duty and let us make it a revolution against pedophiles if possible
+ااا  بعد أن we read للمتخصصين هذا our duty وليكتب هؤلاء المتخصصون هذا واجبهم ولنجعلها ثورة ضد الفهلوة لو أمكن
+{'نقرأ': 'we read', 'واجبنا': 'our duty'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+وكل حاجة وبلا أى إحساس بالوجل أو الذنب أكبر مشكلة تواجه مصر الجديدة أن المقومات الأخلاقية والفكرية للنهضة ليست
+every need and without any sense of apprehension or guilt is the biggest problem facing heliopolis the moral and intellectual components of the renaissance are not
+ااا  وكل حاجة وبلا أى إحساس بالوجل أو ال guilt أكبر problem تواجه مصر الجديدة أن المقومات الأخلاقية والفكرية للنهضة ليست
+{'الذنب': ' ال guilt', 'مشكلة': 'problem'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+الجهل بهذا الكم من
+ignorance of this many
+ااا  ال ignorance بهذا الكم من
+{'الجهل': ' ال ignorance'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+الاحتراف والرغبة الأكيدة فى جذب الناس لمشاهدة ما يضرهم يؤكد أن كلام الرئيس بتاعكم عن حروب الجيل الرابع غير كاف ده أنتم فى
+professionalism and a firm desire to attract people to watch what harms them confirms that your president 's  words about fourth generation wars are not enough
+ااا  ال professionalism والرغبة الأكيدة فى attract الناس لمشاهدة ما يضرهم يؤكد أن كلام الرئيس بتاعكم عن حروب الجيل الرابع غير كاف ده أنتم فى
+{'الاحتراف': ' ال professionalism', 'جذب': 'attract'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+حروب الجيل الأربعين وهى أن تكون من التفاهة لدرجة أن تتطوع بتدمير مجتمعك دون أن تكون مدفوعا بمؤامرة خارجية يعنى غبى لدرجة
+fortygeneration wars which is to be so frivolous that you volunteer to destroy your society without being motivated by an external conspiracy that is stupid to the point of
+ااا  wars الجيل الأربعين وهى أن تكون من التفاهة لدرجة أن تتطوع بتدمير مجتمعك دون أن تكون مدفوعا بمؤامرة خارجية يعنى غبى لدرجة
+{'حروب': 'wars'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+قلت لأم ميئش يعنى إيه إنتليجينسيا قالت أم ميئش يعنى النخبة المثقفة بفتح القاف المثقفة
+i said to umm mayash what is intelligence she said umm mayish meaning the educated elite by fatah alqaf the educated
+ااا  قلت لأم ميئش يعنى إيه إنتليجينسيا قالت أم ميئش يعنى النخبة ال educated بفتح القاف المثقفة
+{'المثقفة': ' ال educated'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+الناس الجهل وهى تدعى العلم والوطنية يعنى لو شفت القناة
+ignorance people and it is called science and patriotism i mean if you see the channel
+ااا  الناس الجهل وهى تدعى ال science والوطنية يعنى لو شفت القناة
+{'العلم': ' ال science'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+على أجندة الناس وتترك التفاهات والتافهين فى
+on people 's  agenda and leave trivialities and petty in
+ااا  على agenda الناس و leave التفاهات والتافهين فى
+{'أجندة': 'agenda', 'وتترك': 'و leave'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+كان يمسح على دماغه ويقول آه يا دماغى قالت
+he was wiping on his brain and saying oh my brain she said
+ااا  كان يمسح على his brain ويقول آه يا دماغى قالت
+{'دماغه': 'his brain'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+أم ميئش يا عم أنا مالى دى بلادكم وأنتم أحرار فيها هات لى قنوات الحيوانات على الأقل هناك
+um dont you uncle im mali this is your country and you are free in it bring me the channels of animals at least there
+ااا  أم ميئش يا عم أنا مالى دى بلادكم وأنتم free فيها هات لى قنوات الحيوانات على الأقل هناك
+{'أحرار': 'free'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+الأمور منطقية الأسد أسد والحمار حمار والقرد قرد إنتم عندكم الحمار
+things are logical the lion is a lion the donkey is a donkey and the monkey is a monkey you have the donkey
+ااا  ال things منطقية الأسد أسد والحمار حمار والقرد قرد إنتم عندكم ال donkey
+{'الأمور': ' ال things', 'الحمار': ' ال donkey'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+أسد والأسد حمار والقرد ملك
+lion and lion donkey and monkey king
+ااا  lion والأسد حمار والقرد ملك
+{'أسد': 'lion'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+مشاكل أكثر كثيرا من حدودها الخربة غير الكفؤة دي واي إس اف يو ان سي تي آي او ان ايه إل بما
+far more problems than its inefficient wasteful borders dysf uncti onal including
+ااا  problems أكثر كثيرا من حدودها الخربة غير الكفؤة دي واي إس اف يو ان سي تي آي او ان ايه إل بما
+{'مشاكل': 'problems'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+يونيو ألفين و ستة الذى اقترح فيه خريطة جديدة للمشرق العربى وصولا
+june two thousand and six in which he proposed a new map of the arab east to reach
+ااا  june ألفين و ستة الذى اقترح فيه خريطة جديدة للمشرق العربى وصولا
+{'يونيو': 'june'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+إلى أنها جزء من التدريب الذى يتلقاه المشتغلون بالسياسة الخارجية والعمل الاستخباراتى الأمريكى والغربى وكما
+to that it is part of the training that those engaged in foreign policy and american and western intelligence work receive
+ااا  إلى أنها part من ال training الذى يتلقاه المشتغلون بالسياسة الخارجية والعمل الاستخباراتى الأمريكى والغربى وكما
+{'جزء': 'part', 'التدريب': ' ال training'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+يقول موقع مجلة القوات المسلحة الأمريكى فإن
+the us armed forces magazine website says
+ااا  يقول موقع magazine القوات المسلحة الأمريكى فإن
+{'مجلة': 'magazine'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+شخص يروى قصة قال فيها بعد واحد و عشرين سنة من زواجى وجدت
+someone tells a story in which he said after twentyone years of my marriage i found
+ااا  شخص يروى a story قال فيها بعد واحد و عشرين سنة من زواجى وجدت
+{'قصة': 'a story'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+تحدثنا كثيرا أثناء العشاء لم يكن هناك أى شىء غير عادى ولكن
+we talked a lot during dinner and there was nothing unusual but
+ااا  تحدثنا كثيرا أثناء ال dinner لم يكن هناك أى شىء غير عادى ولكن
+{'العشاء': ' ال dinner'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+قصص قديمة وقصص جديدة لدرجة أننا نسينا الوقت إلى ما بعد منتصف الليل وعندما رجعنا ووصلنا إلى باب بيتها
+old stories and new stories so much that we forgot the time until after midnight and when we came back to her door
+ااا  stories قديمة وقصص جديدة لدرجة أننا نسينا ال time إلى ما بعد منتصف الليل وعندما رجعنا ووصلنا إلى باب بيتها
+{'قصص': 'stories', 'الوقت': ' ال time'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+قالت أوافق أن نخرج معا مرة أخرى ولكن على حسابى فقبلت
+she said i agree to go out together again but at my expense i accepted
+ااا  she said أوافق أن نخرج معا مرة أخرى ولكن على حسابى فقبلت
+{'قالت': 'she said'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ملاحظة مكتوبة بخطها دفعت
+handwritten note paid
+ااا  note مكتوبة بخطها دفعت
+{'ملاحظة': 'note'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+اللحظة فهمت وقدرت معنى كلمة حب أو أحبكوما معنى
+the moment i understood and appreciated the meaning of the word love or i loved you and what is the meaning of it
+ااا  ال moment فهمت وقدرت معنى كلمة حب أو أحبكوما معنى
+{'اللحظة': ' ال moment'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+حق الله وحقهما وهذه الأمور لا تؤجل بعد قراءة القصة تذكرت قصة من سأل عبدالله بن عمر
+god ’s right and their right and these matters are not postponed after reading the story i remembered the story of the one who asked abdullah bin omar
+ااا  حق الله و their right وهذه الأمور لا تؤجل بعد قراءة القصة تذكرت قصة من سأل عبدالله بن عمر
+{'وحقهما': 'و their right'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+وأحيانا لا تملك نفسها وتقضيها على وأنا
+and sometimes she doesnt have herself and spend it on me
+ااا  و sometimes لا تملك نفسها وتقضيها على وأنا
+{'وأحيانا': 'و sometimes'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+بقولها أعلم جيدا كم تحبها المرأة التى أرادت زوجتى أن أخرج معها وأقضى وقتا
+by saying i know very well how much the woman my wife wanted me to go out with and spend time with her
+ااا  بقولها أعلم جيدا how much تحبها المرأة التى أرادت زوجتى أن أخرج معها وأقضى وقتا
+{'كم': 'how much'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+يوم الخميس وبعد العمل مررت عليها وأخذتها كنت
+on thursday after work i passed by her and i took her
+ااا  يوم الخميس وبعد ال work مررت عليها وأخذتها كنت
+{'العمل': ' ال work'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+قلقة كانت تنتظر عند الباب مرتدية ملابس جميلة ويبدو أنه آخر فستان قد اشتراه أبى قبل
+worried she was waiting at the door dressed in pretty clothes and seemed to be the last dress my dad had bought before
+ااا  قلقة she was تنتظر عند الباب مرتدية clothes جميلة ويبدو أنه آخر فستان قد اشتراه أبى قبل
+{'كانت': 'she was', 'ملابس': 'clothes'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+أتذكر عنوان مقالى يوم الخامس والعشرون من يناير ألفين و
+i remember the title of my article on the twentyfifth of january two thousand and
+ااا  i remember عنوان مقالى يوم الخامس والعشرون من يناير ألفين و
+{'أتذكر': 'i remember'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+أحد عشر على تعديلات دستور ألف و تسعمائة و واحد
+eleven on the amendments to the constitution of one thousand nine hundred and one
+ااا  أحد عشر على تعديلات constitution of ألف و nine hundred و واحد
+{'دستور': 'constitution of', 'تسعمائة': 'nine hundred'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+و سبعين قلت نعم وأوضحت أن دستور واحد
+and seventy i said yes and made it clear that one constitution
+ااا  و seventy قلت نعم وأوضحت أن دستور واحد
+{'سبعين': 'seventy'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+و سبعين وعدلناه مثلما فعلت دول كثيرة أخرى غلبت
+and seventy and we adjusted it as many other countries have done
+ااا  و seventy وعدلناه مثلما فعلت دول كثيرة أخرى غلبت
+{'سبعين': 'seventy'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+الدستور أولا وفقا للبرادعى مع أنى مش عارف ده كان هيحصل إزاى لأن
+the constitution first according to elbaradei although i do not know how this would happen because
+ااا  ال constitution أولا وفقا للبرادعى مع أنى مش عارف ده كان هيحصل إزاى لأن
+{'الدستور': ' ال constitution'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+الدستور فى كل الأحوال سيكون لاحقا على تحديد من يكتبه أو يعدله أو
+in all cases the constitution will be later determined who writes it amends it or
+ااا  ال constitution فى كل الأحوال سيكون لاحقا على تحديد من يكتبه أو يعدله أو
+{'الدستور': ' ال constitution'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+أحد عشر فى جريدة الشروق كم يكفى لإحداث
+eleven in alshorouk newspaper how much is enough to make
+ااا  أحد عشر فى newspaper الشروق كم يكفى لإحداث
+{'جريدة': 'newspaper'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+وصدر الإعلان الدستورى العظيم اللى خلانا نمشى بخطوات نعم بس بسرعة لأ وتساوت نعم مع لا والشعب المصرى أخذ
+and the great constitutional declaration was issued which made us walk in steps yes but quickly no and yes with no and the egyptian people took
+ااا  وصدر الإعلان ال constitutional العظيم اللى خلانا نمشى بخطوات نعم بس بسرعة لأ وتساوت نعم مع لا والشعب المصرى أخذ
+{'الدستورى': ' ال constitutional'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+أحلى سكحاية ولما وصل الإخوان للسلطة كان الإبداع فى قمته رئيس عجيب ونخبة غريبة وشعب مخه دوحس والإعلام يصوت والرجالة تحدف طوب
+the sweetest sakha and when the brotherhood came to power creativity was at its peak a strange president and a strange elite and a people whose brains were doused and the media voted and the men were hitting bricks
+ااا  أحلى سكحاية ولما وصل ال brotherhood للسلطة كان ال creativity فى قمته رئيس عجيب ونخبة غريبة وشعب مخه دوحس والإعلام يصوت والرجالة تحدف طوب
+{'الإخوان': ' ال brotherhood', 'الإبداع': ' ال creativity'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+سيد الموقف أحط الجلابية فى سنانى وأجرى وأى حد عاقل فى
+master of the situation i put my galabiya in my teeth and run and any sane person in me
+ااا  سيد ال situation أحط الجلابية فى سنانى وأجرى وأى حد عاقل فى
+{'الموقف': ' ال situation'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+الفترة دى وما كانش شرب من نهر الجنون كان بيتقال عليه كل حاجة وعكسها
+this period and he was not drinking from the river of madness he used to say everything and vice versa
+ااا  ال period دى وما كانش شرب من river of الجنون كان بيتقال عليه كل حاجة وعكسها
+{'الفترة': ' ال period', 'نهر': 'river of'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+فيه تطور ملحوظ حصل للشباب بتوع الإخوان المسلمين ومؤيديهم اللى كانوا بيخشوا يسبوا الدين على الصفحة بتاعتى توقفوا أنا
+there is a remarkable development that happened to young people conscious of the muslim brotherhood and their supporters who were afraid to insult the religion on my page
+ااا  فيه تطور ملحوظ happened للشباب بتوع الإخوان المسلمين ومؤيديهم اللى كانوا بيخشوا يسبوا الدين على الصفحة بتاعتى توقفوا أنا
+{'حصل': 'happened'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ثورة ويبدو أن الإخوة الثورجية افتكرونى سأؤيدهم أيا ما كان قرارهم حتى
+a revolution and it seems that the thorji brothers have thought that i will support them whatever their decision
+ااا  a revolution ويبدو أن الإخوة الثورجية افتكرونى سأؤيدهم أيا ما كان قرارهم حتى
+{'ثورة': 'a revolution'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+أم ميئش قطتى العزيزة السؤال التالى يا موع موع هو الخامس والعشرون من يناير ثورة ولا مؤامرة فقلت
+umm miesh my dear cat the next question is maw maa it is the twentyfifth of january a revolution not a conspiracy so i said
+ااا  أم ميئش قطتى العزيزة ال question التالى يا موع موع هو الخامس والعشرون من يناير a revolution ولا مؤامرة فقلت
+{'السؤال': ' ال question', 'ثورة': 'a revolution'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+فيها ما فينا من عشوائية وارتجالية ولا منطق وعلى هذا بدأنا نرجع
+there is no randomness improvisation or logic in us and on this we began to return
+ااا  فيها ما فينا من عشوائية وارتجالية ولا logic وعلى هذا بدأنا نرجع
+{'منطق': 'logic'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+إلى الناس اللى كانوا بيحكمونا قبل الثورة عشان نتمنى عليهم أن يخلوا
+to the people who were ruling us before the revolution so we wish them to leave
+ااا  إلى الناس اللى كانوا بيحكمونا قبل ال revolution عشان نتمنى عليهم أن يخلوا
+{'الثورة': ' ال revolution'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+تلاميذهم واللى اتعلموا على إيديهم يحكمونا ومن
+their disciples and those who have learned from their hands judge us
+ااا  تلاميذهم واللى اتعلموا على their hands يحكمونا ومن
+{'إيديهم': 'their hands'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+هنا أطلق عليها موع موع أعظم ثورة دائرية
+here i call it the greatest circular revolution
+ااا  هنا أطلق عليها موع موع أعظم revolution دائرية
+{'ثورة': 'revolution'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+وما ترتب عليها أسألك سؤالا بفرض أن الأحداث عليها بي ايه يو إس إي قبل الخامس والعشرون من يناير
+and what that entails i ask you a question assuming that the events are due to pause before the twentyfifth of january
+ااا  وما ترتب عليها أسألك a question بفرض أن الأحداث عليها بي ايه يو إس إي قبل الخامس والعشرون من يناير
+{'سؤالا': 'a question'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+المباراة لتنتهى إلى ما انتهينا إليه من
+the match ends with what we have finished
+ااا  ال match لتنتهى إلى ما انتهينا إليه من
+{'المباراة': ' ال match'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+كانت ثورة فهى أعظم ثورة دائرية
+it was a revolution it is the greatest circular revolution
+ااا  كانت revolution فهى أعظم ثورة دائرية
+{'ثورة': 'revolution'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+فى نفس الجريدة فى الثامن من أبريل ألفين و
+in the same newspaper on the eighth of april two thousand and
+ااا  فى نفس ال newspaper فى الثامن من أبريل ألفين و
+{'الجريدة': ' ال newspaper'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+أحد عشر قائلا آخر عمود
+eleven saying another column
+ااا  أحد عشر قائلا آخر column
+{'عمود': 'column'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+فيها الجيش الجيش آخر عمود
+where the army the army is the last pillar
+ااا  فيها ال الجيش آخر عمود
+{'الجيش': ' ال army'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+واحد و سبعين لكنها طبقتها بفعالية أكثر مع تولى مهاتير محمد السلطة فى عام ألف و تسعمائة و
+seventyone but it applied it more effectively with mahathir muhammad 's  assumption of power in the year one thousand nine hundred and
+ااا  واحد و سبعين لكنها طبقتها بفعالية أكثر مع تولى مهاتير محمد السلطة فى عام ألف و nine hundred و
+{'تسعمائة': 'nine hundred'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+والطيران المدنى ممكن أن تعطل الكثير والخلافات بين وزارات
+and civil aviation can disrupt a lot and disagreements between ministries
+ااا  والطيران ال civil ممكن أن تعطل الكثير و ال disagreements بين وزارات
+{'المدنى': ' ال civil', 'والخلافات': ' ال و disagreements'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ولا أقول وزراء الاستثمار والمالية والبنك المركزى يمكن أن يكون لها تأثير سلبى على
+nor do i say the ministers of investment and finance and the central bank can have a negative impact on
+ااا  ولا أقول ministers of الاستثمار والمالية والبنك المركزى يمكن أن يكون لها تأثير سلبى على
+{'وزراء': 'ministers of'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+مجالات اقتصادية واجتماعية أخرى أى
+other economic and social fields ie
+ااا  مجالات economic واجتماعية أخرى أى
+{'اقتصادية': 'economic'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+كتب بهاء جاهين فى خاتمة مسرحية الزعيم ما يلى يقول
+baha jahin wrote in the conclusion of the play alzaim the following
+ااا  كتب بهاء جاهين فى conclusion of مسرحية الزعيم ما يلى يقول
+{'خاتمة': 'conclusion of'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+الزعيم المفترض مرة أخرى لأ لأ تانى هنبدأ الفارس تمثاله اتشقق والفروسية بقت حدوتة وكلام
+the supposed leader again no no again we will start the knight his statue cracked and the equestrian became a story and talk
+ااا  الزعيم المفترض مرة أخرى لأ لأ تانى هنبدأ ال knight تمثاله اتشقق والفروسية بقت حدوتة وكلام
+{'الفارس': ' ال knight'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+لكلمات هذه المسرحية يرجع للعلاقة الثلاثية التى ترسمها أولا نظام فاسد يعرف كيف يدير ويدور يختفى ليعود
+the words of this play are due to the tripartite relationship that you draw first a corrupt system that knows how to turn and rotate it disappears to come back
+ااا  لكلمات هذه ال play يرجع للعلاقة الثلاثية التى ترسمها أولا نظام فاسد يعرف كيف يدير ويدور يختفى ليعود
+{'المسرحية': ' ال play'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ومدارس حقق لنا يا زعيم أحلامنا يرد
+and schools fulfill our dreams o leader
+ااا  و schools حقق لنا يا زعيم أحلامنا يرد
+{'ومدارس': 'و schools'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+لأ تانى هنبدأ الفارس تمثاله اتشقق والفروسية بقت حدوتة وكلام
+no again we will start the knight his statue cracked and equestrianism has become a story and talk
+ااا  لأ تانى هنبدأ ال knight تمثاله اتشقق والفروسية بقت حدوتة وكلام
+{'الفارس': ' ال knight'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+إحنا الناس العالية الهاى راجعين تانى
+we are the high people we are coming back again
+ااا  إحنا الناس ال high الهاى راجعين تانى
+{'العالية': ' ال high'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+وتانى وتانى أرواحنا قططى ومطاط يستغيث
+and again and again our souls are cats and rubber for help
+ااا  وتانى وتانى our souls قططى ومطاط يستغيث
+{'أرواحنا': 'our souls'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+بالأمس عن الفيلسوفة البريطانية بي اتش آي إل آي بي بي ايه آر يو تي اتش اف او او تي
+yesterday on british philosopher philip ba aru th f o ot
+ااا  ب ال yesterday عن الفيلسوفة البريطانية بي اتش آي إل آي بي بي ايه آر يو تي اتش اف او او تي
+{'بالأمس': ' ب  ال yesterday'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+التى وضعت لنا معضلة كبيرة فى عام ألف و تسعمائة و سبعة و
+which presented us with a great dilemma in the year one thousand nine hundred and seven
+ااا  التى وضعت لنا معضلة كبيرة فى عام one thousand و nine hundred و سبعة و
+{'ألف': 'one thousand', 'تسعمائة': 'nine hundred'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ستين حين طلبت منا أن نتخيل شيئا من هذا القبيل ماذا
+sixty when you asked us to imagine something like what
+ااا  sixty حين طلبت منا أن نتخيل شيئا من هذا القبيل ماذا
+{'ستين': 'sixty'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+لو أنت سائق سيارة ضخمة واكتشفت فجأة أنها بلا فرامل وبالنظر
+if you are the driver of a huge car and suddenly discover that it has no brakes and by looking
+ااا  لو أنت driver of سيارة ضخمة واكتشفت فجأة أنها بلا فرامل وبالنظر
+{'سائق': 'driver of'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+العمل فى السياسة بضمير ولوجه الله والوطن والحياة الكريمة مثل من يتطوع كى يسلك البلاعة
+working in politics with a conscience and for the sake of god the homeland and a decent life is like someone who volunteers to take the plunge
+ااا  العمل فى ال politics بضمير ولوجه الله والوطن والحياة الكريمة مثل من يتطوع كى يسلك البلاعة
+{'السياسة': ' ال politics'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+عندنا كلنا بنفس الدرجة ونعانى تقريبا بنفس القدر يمكن
+we all have it to the same degree and suffer almost as much as possible
+ااا  عندنا كلنا بنفس ال degree ونعانى تقريبا بنفس القدر يمكن
+{'الدرجة': ' ال degree'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+العمومية بتاعة الشارع شخص هيجد الدنيا بتغرق والبيوت غير قابلة للسكنى والدنيا بتنهار
+the public in the street is a person who will find the world sinking the houses uninhabitable and the world collapsing
+ااا  العمومية بتاعة ال street شخص هيجد الدنيا بتغرق والبيوت غير قابلة للسكنى والدنيا بتنهار
+{'الشارع': ' ال street'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+مسدس يبحث عن الشخص الآخر ويسألك أين هو أمامك أحد اختيارين إما أن تقول الحقيقة التزاما بالمبدأ والقسم أو
+a gun looks for the other person and asks you where he is you have one of two choices either you tell the truth in compliance with principle and oath or
+ااا  مسدس يبحث عن ال person الآخر ويسألك أين هو أمامك أحد اختيارين إما أن تقول الحقيقة التزاما بالمبدأ والقسم أو
+{'الشخص': ' ال person'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+أعظم المفسدتين مع احتمال أدناهما أى أن
+the greatest of the two spoilers with the probability of the two being the least
+ااا  أعظم ال spoilers مع احتمال أدناهما أى أن
+{'المفسدتين': ' ال spoilers'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+يتحمل أحدنا المفسدة الأقل تجنبا للمفسدة الأكبر ولو نتذكر فهذا ما قاله الدكتور أحمد الطيب فى كلمته فى الثالث من يوليو ألفين و ثلاثة عشر مصر
+one of us bears the lesser evil by avoiding the greater evil
+ااا  يتحمل one of us المفسدة الأقل تجنبا للمفسدة الأكبر ولو نتذكر فهذا ما قاله الدكتور أحمد الطيب فى كلمته فى الثالث من يوليو ألفين و ثلاثة عشر مصر
+{'أحدنا': 'one of us'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+حالة كراهية ورغما عن كل محاولات الإنسان ألا يشرب من نهر الكراهية وألا يبادل الآخرين الإساءة بالإساءة فهناك من يدفعنا جميعا دفعا إلى
+a state of hatred and despite all human attempts not to drink from the river of hatred and not to exchange insults with others there are those who push us all to
+ااا  حالة كراهية ورغما عن كل محاولات الإنسان ألا يشرب من river of الكراهية وألا يبادل الآخرين الإساءة بالإساءة فهناك من يدفعنا جميعا دفعا إلى
+{'نهر': 'river of'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+حالة من الكراهية الجماعية والسؤال كيف
+a case of collective hatred and the question how
+ااا  حالة من ال hatred الجماعية والسؤال كيف
+{'الكراهية': ' ال hatred'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+على اللا مجتمع وأن نستخف بالأمر فهذا مؤشر
+we should not society and we should underestimate it this is an indication
+ااا  على اللا مجتمع وأن نunderestimate بالأمر فهذا مؤشر
+{'نستخف': 'نunderestimate'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+لو أنت سائق سيارة ضخمة واكتشفت فجأة أنها بلا فرامل وبالنظر
+if you are the driver of a huge car and suddenly discover that it has no brakes and by looking
+ااا  لو أنت driver of سيارة ضخمة واكتشفت فجأة أنها بلا فرامل وبالنظر
+{'سائق': 'driver of'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+تتحرر الروح بعد أن يكون الجسد قد أدى دوره فى التدافع على الأرض ولمحدودية أفقنا نعتقد أن
+the soul is liberated after the body has played its role in the scramble on the ground and due to the limited horizons we believe that
+ااا  تتحرر الروح بعد أن يكون ال body قد أدى دوره فى التدافع على الأرض ولمحدودية أفقنا نعتقد أن
+{'الجسد': ' ال body'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+جزء من خوف الإنسان مما يجهل قطعا لا يتذكر أى منا
+a part of man 's  fear of what he is ignorant of none of us remembers
+ااا  part من fear of الإنسان مما يجهل قطعا لا يتذكر أى منا
+{'جزء': 'part', 'خوف': 'fear of'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+مشاعره قبل أن يولد أو بعد الولادة مباشرة لكننا
+his feelings before he was born or immediately after birth but we
+ااا  his feelings قبل أن يولد أو بعد ال birth مباشرة لكننا
+{'مشاعره': 'his feelings', 'الولادة': ' ال birth'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+من مصيبة فى الأرض ولا فى أنفسكم إلا فى كتاب من قبل أن نبرأها إن ذلك على الله يسير لكيلا تأسوا على ملازم أول فاتكم
+from a calamity on the earth or in yourselves but it is in a book before we bring it into existence indeed that is easy for god so that you may not grieve for a lieutenant who has missed you
+ااا  من مصيبة فى ال earth ولا فى أنفسكم إلا فى كتاب من قبل أن نبرأها إن ذلك على الله يسير لكيلا تأسوا على ملازم أول فاتكم
+{'الأرض': ' ال earth'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ولا تفرحوا بما آتاكم والله لا يحب كل مختال فخور صدق الله العظيم وقد توفى أبى وأنا
+and do not rejoice over what has been given to you and god does not like every arrogant arrogant
+ااا  ولا تrejoice بما آتاكم والله لا يحب كل مختال فخور صدق الله العظيم وقد توفى أبى وأنا
+{'تفرحوا': 'تrejoice'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+بنى عديدا من الأشياء الجميلة ثم رآها تذوى أو
+he built many beautiful things and then watched them wither or fade away
+ااا  بنى عديدا من الأشياء ال beautiful ثم رآها تذوى أو
+{'الجميلة': ' ال beautiful'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+أفكر فى منطق أستاذى الجليل من جميع جوانبه طيلة ما تبقى من يومى وعندما
+i think about the logic of my honorable teacher in all its aspects throughout the rest of my day and when
+ااا  أفكر فى logic of أستاذى الجليل من جميع جوانبه طيلة ما تبقى من يومى وعندما
+{'منطق': 'logic of'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+فى جريدة الوطن عن مؤسسة بالغة الأهمية فى محيطنا العربى والأفريقى تحدث
+in alwatan newspaper he spoke about a very important institution in our arab and african surroundings
+ااا  فى newspaper الوطن عن مؤسسة بالغة الأهمية فى محيطنا العربى والأفريقى تحدث
+{'جريدة': 'newspaper'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+الدراسات العربية التابع لجامعة الدول العربية وهذا الرجل إن تحدث صدق وقد دخل فى حوار مهم مع
+arab studies of the league of arab states and this man if he spoke the truth and entered into an important dialogue with
+ااا  ال studies العربية التابع لجامعة الدول العربية وهذا الرجل إن تحدث صدق وقد دخل فى حوار مهم مع
+{'الدراسات': ' ال studies'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+آل سعود خلال الفترة من ألف و تسعمائة و اثنين حتى
+al saud during the period from one thousand nine hundred and two until
+ااا  آل سعود خلال ال period من ألف و nine hundred و اثنين حتى
+{'الفترة': ' ال period', 'تسعمائة': 'nine hundred'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ألف و تسعمائة و
+one thousand nine hundred and
+ااا  ألف و nine hundred و
+{'تسعمائة': 'nine hundred'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+اثنين و ثلاثين كان
+thirty two was
+ااا  اثنين و thirty كان
+{'ثلاثين': 'thirty'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+كان قرار الملك عبدالعزيز
+it was king abdulaziz 's  decision
+ااا  كان قرار ال king عبدالعزيز
+{'الملك': ' ال king'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+كانت خطوة شديدة الذكاء من منظور شخص يريد أن يسد أبوابا كثيرة للفتنة وقد كان لكنها
+it was a very smart move from the perspective of someone who wants to block many doors to sedition and it was but it was
+ااا  كانت خطوة شديدة الذكاء من perspective of شخص يريد أن يسد أبوابا كثيرة للفتنة وقد كان لكنها
+{'منظور': 'perspective of'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+الطبقة الدينية تقف عائقا صلبا أمام التعددية فى المذاهب الفقهية وبالتالى المجتمع اعتاد غياب التعددية فى الكثير من الأمور فهو
+the religious class stands as a solid obstacle to pluralism in the sects of jurisprudence consequently society has become accustomed to the absence of pluralism in many matters
+ااا  ال class الدينية تقف عائقا صلبا أمام التعددية فى المذاهب الفقهية وبالتالى المجتمع اعتاد غياب التعددية فى الكثير من الأمور فهو
+{'الطبقة': ' ال class'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+الصادرات انخفضت أسعار النفط فى آخر شهر على نحو مقلق بما يعنى أن
+exports oil prices fell in the last month in a worrying way which means that
+ااا  الصادرات انخفضت prices النفط فى آخر month على نحو worrying بما يعنى أن
+{'أسعار': 'prices', 'شهر': 'month', 'مقلق': 'worrying'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+عالميا الغرب بصفة عامة وعلى رأسه الولايات المتحدة الأمريكية المملكة السعودية أقوى مما قد نظن صحيح
+globally the west in general led by the united states of america the kingdom of saudi arabia is stronger than we might think
+ااا  عالميا ال west بصفة general وعلى رأسه الولايات ال united الأمريكية المملكة السعودية أقوى مما قد نظن صحيح
+{'الغرب': ' ال west', 'عامة': 'general', 'المتحدة': ' ال united'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ذلك ظلت المملكة حريصة على ألا يتحول برميل النفط إلى أداة مقايضة فى أى صراع أو
+therefore the kingdom has been keen that the barrel of oil does not turn into a barter tool in any conflict or conflict
+ااا  ذلك ظلت المملكة حريصة على ألا يتحول barrel of النفط إلى أداة مقايضة فى أى صراع أو
+{'برميل': 'barrel of'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+قرر الملك فيصل رحمة الله عليه ألا يكون النفط العربى أغلى من الدم العربى فمنع صادرات
+king faisal may god have mercy on him decided that arab oil should not be more expensive than arab blood so he prevented exports
+ااا  قرر ال king فيصل رحمة الله عليه ألا يكون النفط العربى أغلى من الدم العربى فمنع صادرات
+{'الملك': ' ال king'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+من ذلك التاريخ كانت المملكة شديدة الحرص على ألا يتحول البترول إلى خانة الصراع السياسى وهذا
+from that date on the kingdom was very careful not to turn oil into a political conflict
+ااا  من ذلك التاريخ كانت المملكة شديدة الحرص على ألا يتحول البترول إلى خانة ال conflict السياسى وهذا
+{'الصراع': ' ال conflict'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+من أن تكون فى خانة الأعداء أو الأعداء المحتملين مع
+than to be in the category of enemies or potential enemies with
+ااا  من أن تكون فى خانة ال enemies أو الأعداء المحتملين مع
+{'الأعداء': ' ال enemies'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+دخول الولايات المتحدة الأمريكية الحرب العالمية الثانية فى ألف و
+the united states of america entered world war ii in the year 2000
+ااا  دخول الولايات ال united الأمريكية الحرب العالمية الثانية فى ألف و
+{'المتحدة': ' ال united'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+أرسل ابنيه الأميرين فيصل وخالد إلى واشنطن لمقابلة الرجل بدلا منه وكان أهم ما فى اللقاء هو طلب أمريكا أن توافق المملكة على عبور
+he sent his two sons princes faisal and khalid to washington to meet the man in his place and the most important thing in the meeting was america 's  request that the kingdom agree to cross
+ااا  أرسل ابنيه الأميرين فيصل وخالد إلى واشنطن to meet الرجل بدلا منه وكان أهم ما فى اللقاء هو طلب أمريكا أن توافق المملكة على عبور
+{'لمقابلة': 'to meet'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+بالمائة من القضايا العالمية هذا التحالف مع
+percent of global issues this alliance with
+ااا  ب ال percent من القضايا العالمية هذا التحالف مع
+{'بالمائة': ' ب  ال percent'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+الولايات المتحدة كان ولم يزل أحد أهم دعائم استقرار المملكة وواحدا
+the united states was and remains one of the most important pillars of the kingdom 's  stability and one of them
+ااا  الولايات ال united كان ولم يزل أحد أهم دعائم استقرار المملكة وواحدا
+{'المتحدة': ' ال united'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+كان نشطا أو خاملا وهو إيران مستغلة وجود نسبة تقارب الثلاثة مليون مواطن سعودى يدينون بالمذهب الشيعى والأخطر
+he was active or passive and iran is taking advantage of the presence of nearly three million saudi citizens who adhere to the shiite sect and the most dangerous
+ااا  كان active أو خاملا وهو إيران مستغلة وجود نسبة تقارب الثلاثة مليون مواطن سعودى يدينون بالمذهب الشيعى والأخطر
+{'نشطا': 'active'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+المتحالف مع الولايات المتحدة وأى تغيير فى بوصلة التحالف السعودى الأمريكى ليس من مصلحة الطرفين سواء فى مواجهة إيران أو روسيا أو أى تحديات
+allied with the united states and any change in the compass of the saudiamerican alliance is not in the interest of both parties whether in the face of iran or russia or any challenges
+ااا  المتحالف مع الولايات ال united وأى تغيير فى بوصلة التحالف السعودى الأمريكى ليس من مصلحة الطرفين سواء فى مواجهة إيران أو روسيا أو أى تحديات
+{'المتحدة': ' ال united'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+وإن ظلت جزءا من الصراع الاجتماعى منذ
+although it has remained part of the social conflict since
+ااا  وإن ظلت part من الصراع ال social منذ
+{'جزءا': 'part', 'الاجتماعى': ' ال social'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+من يشاء والله ذو الفضل العظيم ملازم أول أصاب
+whosoever wills and god is of great bounty first lieutenant
+ااا  من يشاء والله ذو الفضل العظيم lieutenant أول أصاب
+{'ملازم': 'lieutenant'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+من مصيبة فى الأرض ولا فى أنفسكم إلا فى كتاب من قبل أن نبرأها إن ذلك على الله يسير لكيلا تأسوا على ملازم أول فاتكم
+from a calamity on the earth or in yourselves but it is in a book before we bring it into existence indeed that is easy for god so that you may not grieve for a lieutenant who has missed you
+ااا  من مصيبة فى ال earth ولا فى أنفسكم إلا فى كتاب من قبل أن نبرأها إن ذلك على الله يسير لكيلا تأسوا على ملازم أول فاتكم
+{'الأرض': ' ال earth'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+إزيك أيها القارئ الشقيق صباح الفل طبعا أنت بتسأل هو أنا ليه كاتب العنوان كده ما كنت أكتبه بالانجليزيه ان او إس او إل يو تي آي او ان بي او آي ان تي أو
+how are you dear reader good morning of course you are asking why did i write the title like this what i used to write in english nos luti nb into into
+ااا  إزيك أيها ال reader الشقيق صباح الفل طبعا أنت بتسأل هو أنا ليه كاتب العنوان كده ما كنت أكتبه بالانجليزيه ان او إس او إل يو تي آي او ان بي او آي ان تي أو
+{'القارئ': ' ال reader'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+اثنان مليون و ستمائة ألف
+two million six hundred thousand
+ااا  اثنان مليون و six hundred ألف
+{'ستمائة': 'six hundred'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ومواسير مياه وصرف صحى وغيرها علشان تحقق تنمية حقيقية فى
+water and sewage pipes etc in order to achieve real development in
+ااا  ومواسير مياه وصرف صحى وغيرها علشان تحقق development حقيقية فى
+{'تنمية': 'development'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+مثلا حضرتك عندك الديناصور الضخم اللى اسمه الجهاز الإدارى للدولة اللى هم دولة من حيث العدد نحو سبعة ملايين موظف المفروض
+for example you have a huge dinosaur called the administrative apparatus of the state which is a state in terms of the number of about seven million employees
+ااا  مثلا حضرتك you have الديناصور الضخم اللى اسمه الجهاز الإدارى للدولة اللى هم دولة من حيث العدد نحو سبعة ملايين موظف المفروض
+{'عندك': 'you have'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+الإدارى للدولة بيزيد مش بيقل طيب وبعدين مثلا
+the state administration increases not less and then for example
+ااا  الإدارى للدولة بيزيد مش بيقل طيب و then مثلا
+{'وبعدين': 'و then'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+مثلا مثلا الطرق العظيمة التى كل
+for example for example the great ways that all
+ااا  مثلا مثلا الطرق ال great التى كل
+{'العظيمة': ' ال great'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+يوم نجد فيها قتلى وجرحى ويموت لنا فيها نحو عشرين ألف واحد كل سنة يعنى تقريبا عدد من قتلت إسرائيل من جنودنا وضباطنا فى حرب ألف و تسعمائة و سبعة و
+a day in which we find dead and wounded and about twenty thousand people die there every year meaning roughly the number of those israel killed of our soldiers and officers in the war of one thousand nine hundred and seven
+ااا  يوم we find فيها قتلى وجرحى ويموت لنا فيها نحو عشرين ألف واحد كل سنة يعنى تقريبا عدد من قتلت إسرائيل من جنودنا وضباطنا فى حرب ألف و تسعمائة و سبعة و
+{'نجد': 'we find'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ستين صحيح هناك طرق جديدة بتتبنى وستخفف
+sixty right there are new methods that will be adopted and will ease
+ااا  sixty صحيح هناك طرق جديدة بتتبنى وستخفف
+{'ستين': 'sixty'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+عليه لازم حد وغالبا الحد ده رئيس الجمهورية شخصيا يطلع على
+there is a need for a limit and often this limit is for the president of the republic personally to see it
+ااا  عليه لازم a limit وغالبا الحد ده رئيس الجمهورية شخصيا يطلع على
+{'حد': 'a limit'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+الناس دى يفهمها المخاطر ويوضح لها الكوارث اللى إحنا عايشين فيها ورايحين ليها لو
+these people understand the dangers and explain to them the disasters that we live in and will go to if
+ااا  الناس دى يفهمها المخاطر ويوضح لها ال disasters اللى إحنا عايشين فيها ورايحين ليها لو
+{'الكوارث': ' ال disasters'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+فى حالة من التفاؤل الوظيفى أى التفاؤل بالقدر الذى يجعلنى قادرا على القيام بوظيفتى لكنه
+in a state of job optimism ie optimism to the extent that i will be able to do my job but
+ااا  فى حالة من ال optimism الوظيفى أى التفاؤل بالقدر الذى يجعلنى قادرا على القيام بوظيفتى لكنه
+{'التفاؤل': ' ال optimism'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+الحدود بعيدة لتصل لدرجة اغضب يا سيسى اضرب يا سيسى اقتل يا سيسى وهناك من يرى هذه الحدود بعيدة فى الاتجاه
+the borders are far to the point of anger sissy strike sissy kill sissi there are those who see these borders far in the direction
+ااا  الحدود بعيدة لتصل لدرجة اغضب يا سيسى اضرب يا سيسى اkill يا سيسى وهناك من يرى هذه الحدود بعيدة فى الاتجاه
+{'اقتل': 'اkill'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+كبرت أو صغرت ليقوموا بها لما وجدت لهم عزما وعلى فكرة مصر مستهدفة واحنا اللى مستهدفينها تسعون مليون
+big or small to do it when i found a determination for them and by the way egypt is targeted and we are the ones targeting it ninety million
+ااا  كبرت أو صغرت to do بها لما وجدت لهم عزما وعلى فكرة مصر مستهدفة واحنا اللى مستهدفينها تسعون مليون
+{'ليقوموا': 'to do'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ما فيش مصر جديدة ما دمنا نعانى من معضلة كثرة فى الخلق وندرة فى الخلق أصلا تصبحوا على خير
+there is no new egypt as long as we suffer from the dilemma of abundance in creation and scarcity in creation at all good night
+ااا  ما فيش مصر جديدة ما دمنا we suffer من dilemma of كثرة فى الخلق وندرة فى الخلق أصلا تصبحوا على خير
+{'نعانى': 'we suffer', 'معضلة': 'dilemma of'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+السياسية والمدنية الموقع عليه سنة ألف و تسعمائة و
+political and civil signed in the year one thousand nine hundred and
+ااا  السياسية والمدنية الموقع عليه سنة ألف و nine hundred و
+{'تسعمائة': 'nine hundred'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+اللون أو الجنس أو اللغة أو الدين أو الأصل الاجتماعى اثنان لا
+color gender language religion or social origin two no
+ااا  ال color أو الجنس أو ال language أو الدين أو الأصل الاجتماعى اثنان لا
+{'اللون': ' ال color', 'اللغة': ' ال language'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+قرار من مثل هذه المبادرات أولا ألا يعلم أصلا بوجودها لا يقرأها أو لا يقرأها أى من
+a decision from such initiatives is first that he does not even know that they exist that no one reads them or that no one reads them
+ااا  قرار من مثل هذه ال initiatives أولا ألا يعلم أصلا بوجودها لا يقرأها أو لا يقرأها أى من
+{'المبادرات': ' ال initiatives'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+إحنا عندنا نسبة لا بأس بها بتقص الكلا أثناء
+we have a good percentage of cutting both during
+ااا  إحنا have نسبة لا بأس بها بتقص الكلا أثناء
+{'عندنا': 'we have'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+الفهم والنقل والكلام قال تصدق والله يا
+understanding transmission and speech he said believe by god oh
+ااا  ال understanding والنقل و ال speech قال تصدق والله يا
+{'الفهم': ' ال understanding', 'والكلام': ' ال و speech'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ابننا عادى يعنى
+our son is normal
+ااا  ابننا normal يعنى
+{'عادى': 'normal'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ورائى كتاوت ألمانى كتاوت ألمانى رد على منفعلا
+behind me is a german chick a german chick in response to an excitable response
+ااا  behind me كتاوت german كتاوت ألمانى رد على منفعلا
+{'ورائى': 'behind me', 'ألمانى': 'german'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+المصرى الشقيق هو بالفعل أنفوخ يفهم نصف الكلام ويطير منه النصف الثانى عادى يعنى طيب يعنى
+the brotherly egyptian is indeed an infukh who understands half of the words and flies from him the second half is normal meaning ok
+ااا  المصرى الشقيق هو بالفعل أنفوخ يفهم half of الكلام ويطير منه ال half of الثانى عادى يعنى طيب يعنى
+{'نصف': 'half of', 'النصف': ' ال half of'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+الإخوان أكبر عبء على تيار الإسلام السياسى لدرجة
+the brotherhood is the biggest burden on the political trend of islam to a degree
+ااا  ال brotherhood أكبر عبء على تيار الإسلام السياسى لدرجة
+{'الإخوان': ' ال brotherhood'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+نابليون السياسى الذى لا يعرف مواطن الخطر يصبح مصدرا للخطر الإسلاماسيون
+napoleon a politician who does not know where the danger is becomes a source of danger for the islamists
+ااا  نابليون السياسى الذى لا يعرف مواطن ال danger يصبح مصدرا للخطر الإسلاماسيون
+{'الخطر': ' ال danger'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+لكم وأفوض أمرى إلى الله إن الله بصير بالعباد صدق الله العظيم
+you and i delegate my command to god that god sees the servants
+ااا  لكم وأفوض my command إلى الله إن الله بصير بالعباد صدق الله العظيم
+{'أمرى': 'my command'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+أحد الأسماء اللامعة فى الدفاع عن الشرعية يقول قبل الثلاثين من يونيو
+one of the illustrious names in defense of legitimacy says before the thirtieth of june
+ااا  أحد ال names اللامعة فى ال defense عن ال legitimacy يقول قبل الثلاثين من june
+{'الأسماء': ' ال names', 'الدفاع': ' ال defense', 'الشرعية': ' ال legitimacy', 'يونيو': 'june'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+لعل القارئ الكريم يتذكر ما جاء فى
+perhaps the honorable reader will remember what was mentioned in
+ااا  لعل ال reader الكريم يتذكر ما جاء فى
+{'القارئ': ' ال reader'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+أصدر السيد الرئيس
+mr president issued
+ااا  أصدر السيد ال president
+{'الرئيس': ' ال president'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+الأمن القومى وأصدر السيد الرئيس
+national security and issued mr president
+ااا  ال security القومى وأصدر السيد ال president
+{'الأمن': ' ال security', 'الرئيس': ' ال president'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+قرارا جمهوريا بتعيين السيد السفير خالد على مصطفى البقلى أمينا عاما لمجلس الأمن القومى ولى عدة
+a republican decision appointing ambassador khaled ali mustafa albaqly as secretarygeneral of the national security council with several guardians
+ااا  قرارا جمهوريا بتعيين السيد ال ambassador خالد على مصطفى البقلى أمينا عاما لمجلس الأمن القومى ولى عدة
+{'السفير': ' ال ambassador'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ما يريده كل محب لهذا الوطن ثالثا ما أعرفه عن هذه الأسماء أنهم أشخاص لهم تاريخ طويل فى العمل فى أجهزة الدولة ولم يسع أى منهم
+what every lover of this country wants third what i know about these names is that they are people with a long history of working in the state ’s agencies and none of them sought
+ااا  ما يريده كل محب لهذا الوطن ثالثا ما أعرفه عن هذه ال names أنهم أشخاص لهم تاريخ طويل فى العمل فى أجهزة الدولة ولم يسع أى منهم
+{'الأسماء': ' ال names'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+تعقيدات الموقف آنذاك فى ظل فوضى كان هناك من يريد استغلالها لغير مصلحة الوطن رابعا
+the complexities of the situation at that time in light of the chaos there were those who wanted to exploit it for other than the interest of the country fourthly
+ااا  تعقيدات ال situation آنذاك فى ظل فوضى كان هناك من يريد استغلالها لغير مصلحة الوطن رابعا
+{'الموقف': ' ال situation'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+إذا كان القرار سريا وهؤلاء
+if the decision is confidential and these
+ااا  إذا كان ال decision سريا وهؤلاء
+{'القرار': ' ال decision'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+نرى الرئيس الأمريكى أو الروسى أو الفرنسى يقف
+we see the american russian or french president standing
+ااا  نرى الرئيس الأمريكى أو ال russian أو الفرنسى يقف
+{'الروسى': ' ال russian'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+صرح به السفير علاء يوسف المتحدث الرسمى باسم
+this was stated by ambassador alaa youssef the official spokesman for
+ااا  صرح به ال ambassador علاء يوسف المتحدث الرسمى باسم
+{'السفير': ' ال ambassador'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+التسويق السياسى الأولى تعالى اركب معى والثانية تقول اركب معى أنا رايح المكان الفلانى علشان نعمل
+political marketing the first one come ride with me and the second says ride with me im going to such and such place to work
+ااا  ال marketing السياسى الأولى تعالى اركب معى والثانية تقول اركب معى أنا رايح المكان الفلانى علشان نعمل
+{'التسويق': ' ال marketing'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+هذا العمود ما يلى لا بد
+this column the following is a must
+ااا  هذا ال column ما يلى لا بد
+{'العمود': ' ال column'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+تصفية الإرهابيين والقبض عليهم ومحاكمتهم عسكريا وبأشد العقوبات أو العمل على
+eliminate terrorists arrest them and try them militarily with the most severe penalties or work to stop them
+ااا  تصفية ال terrorists والقبض عليهم ومحاكمتهم عسكريا وبأشد العقوبات أو العمل على
+{'الإرهابيين': ' ال terrorists'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+قبل النهضة الحقيقية لا بد من يقين بأن استمرار أوضاع التخلف خطر قبل النهضة الحقيقية لا بد من
+before the real renaissance it must be certain that the continuation of the conditions of backwardness is dangerous before the real renaissance must be done
+ااا  قبل ال renaissance الحقيقية لا بد من يقين بأن continuation of أوضاع التخلف خطر قبل النهضة الحقيقية لا بد من
+{'النهضة': ' ال renaissance', 'استمرار': 'continuation of'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+وهذا مفهوم فى ضوء أن الفترة الانتقالية بطبيعتها هى كالحمل وهن على
+this is understandable in light of the fact that the transitional period is by its nature like pregnancy and they are on
+ااا  وهذا مفهوم فى light of أن الفترة الانتقالية بطبيعتها هى كالحمل وهن على
+{'ضوء': 'in light of'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+يقين بأن الوقت مورد محدود وأن تأجيل عمل اليوم إلى الغد خطر سياسى وأمنى ومجتمعى
+certainty that time is a limited resource and that postponing today ’s work to tomorrow is a political security and societal danger
+ااا  يقين بأن ال time مورد limited وأن تأجيل عمل اليوم إلى الغد خطر سياسى وأمنى ومجتمعى
+{'الوقت': ' ال time', 'محدود': 'limited'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+كبير قبل النهضة الحقيقية لا بد من
+great before the real renaissance is necessary
+ااا  كبير قبل ال renaissance الحقيقية لا بد من
+{'النهضة': ' ال renaissance'}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
